@@ -145,7 +145,7 @@ h2 { font-size: clamp(1.75rem, 4.5vw, 2.7rem); font-weight: 800; margin-bottom: 
 }
 .offer img { border-radius: 3px; box-shadow: 0 16px 40px rgba(0, 0, 0, .55); }
 .offer h2 { text-transform: uppercase; margin-bottom: 1rem; }
-.price { font-size: clamp(3rem, 9vw, 4.4rem); font-weight: 800; font-family: var(--mono); line-height: 1; color: var(--text) !important; margin: 1.2rem 0 1.6rem !important; }
+.price { font-size: clamp(3rem, 9vw, 4.4rem); font-weight: 800; line-height: 1; color: var(--text) !important; margin: 1.2rem 0 1.6rem !important; }
 .price span { font-size: .4em; color: var(--cyan); margin-right: .2em; }
 
 /* FAQ */
